@@ -10,7 +10,6 @@ We conducted this research-based project as a part of our course on Anti-Social 
 ## Methodology:
 We divide the study into distinct and significant components. We took the approach of conducting interviews and design workshops to best answer our questions. We equip qualitative analysis to form our deductions and propose the ideal features to allow users to enhance authenticity online. The two distinct components are: 
 1. **Feature-Centric interviews**: We aim to employ feature-centric questions to get answers to two Research Questions:
-2. 
 **RQ1**: Do users feel the burden of maintaining a specific image or persona on social media? 
 
 **RQ2**: What features on social media platforms influence authenticity? 
