@@ -1,7 +1,8 @@
 # Project-UnFiltered
 Given the increasing adoption of media-focused social media platforms, we seek to examine the key drivers of authenticity from a human-computer interaction (HCI) perspective.
 
-This is a project by: Aniruddha Das, Brittany Trieu, Niraj Yagnik, Purva Kothari.\ 
+This is a project by: Aniruddha Das, Brittany Trieu, Niraj Yagnik, Purva Kothari.
+
 
 We conducted this research-based project as a part of our course on Anti-Social Computing (CSE 291) under the guidance of Dr. Kristen Vaccaro.
 
