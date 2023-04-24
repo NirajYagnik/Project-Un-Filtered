@@ -13,8 +13,8 @@ From previous studies, we have found that expectation for authentic performance 
 ## Methodology:
 We divide the study into distinct and significant components. We took the approach of conducting interviews and design workshops to best answer our questions. We equip qualitative analysis to form our deductions and propose the ideal features to allow users to enhance authenticity online. The two distinct components are: 
 1. **Feature-Centric interviews**: We aim to employ feature-centric questions to get answers to two Research Questions:
-* **RQ1**: Do users feel the burden of maintaining a specific image or persona on social media? \
-* **RQ2**: What features on social media platforms influence authenticity? \
+* **RQ1**: Do users feel the burden of maintaining a specific image or persona on social media? 
+* **RQ2**: What features on social media platforms influence authenticity? 
 * **RQ3**: What changes to these features might increase the amenability sense of authenticity?
 
 2. **Asynchronous Design Workshop**: For the next part of our study, we conduct asynchronous design thinking workshops to allow the participants to propose a new platform that includes/enhances the best existing features of these platforms. 
